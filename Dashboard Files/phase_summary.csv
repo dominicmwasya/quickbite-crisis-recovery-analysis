@@ -1,0 +1,4 @@
+phase,Orders,Customers,Revenue,Cancelled,Cancel_Rate_%,Avg_Order_Value
+Pre-Crisis,113806,86824,37620964.25,6894,6.1,330.57
+Crisis,9293,9096,2887866.91,1074,11.6,310.76
+Recovery,26067,24410,8052284.4,3144,12.1,308.91
