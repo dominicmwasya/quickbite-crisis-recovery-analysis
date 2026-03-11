@@ -222,7 +222,7 @@ jupyter notebook notebooks/quickbite_analysis.ipynb
 - **Customer segmentation:** Pie/donut chart breakdown
 - **Phase comparison:** Pre-Crisis vs Crisis vs Recovery
 
-**[View Dashboard PDF](https://app.powerbi.com/groups/me/reports/3c86f2b0-d422-4745-a9ef-049e24d6d39f/d51cabee787aa52e96df?experience=power-bi)**
+**[View Dashboard PDF](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/841f53d8524665afe1c407bdceb83cdb0f532dce/Quickbite%20dashboard.pbix)**
 
 
 
