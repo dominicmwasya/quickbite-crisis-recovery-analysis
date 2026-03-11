@@ -232,7 +232,7 @@ jupyter notebook notebooks/quickbite_analysis.ipynb
 - Detailed recommendations
 - Implementation roadmap
 
-**[View Executive Summary](reports/Executive_Summary.pdf)**
+**[View Executive Summary](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/68fee17a21f396776f1242acd1b95c2c97a2ffd9/Executive%20Summarypdf.pdf)**
 
 ### 3. Jupyter Notebook Analysis
 - Complete Python code
