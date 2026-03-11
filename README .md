@@ -240,7 +240,7 @@ jupyter notebook notebooks/quickbite_analysis.ipynb
 - Statistical analysis
 - Visualization generation
 
-**[View Notebook](notebooks/quickbite_analysis.ipynb)**
+**[View Notebook](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/acebf4ef8434b0c40db5811c0b28d1565b77c949/Quickbite%20jupyter%20notebook.ipynb)**
 
 ---
 
