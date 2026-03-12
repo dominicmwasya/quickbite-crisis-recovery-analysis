@@ -7,8 +7,7 @@
 
 > **A comprehensive data analysis project examining a food delivery platform's operational crisis, customer impact, and strategic recovery roadmap.**
 
-[Live Dashboard](#) | [Case Study](reports/Executive_Summary.pdf) | [Presentation](presentation/QuickBite_Presentation.pdf)
-
+[Live Dashboard](#) | [Case Study](reports/Executive_Summary.pdf) 
 ---
 
 ## 📋 Table of Contents
@@ -314,10 +313,7 @@ jupyter notebook notebooks/quickbite_analysis.ipynb
 
 ---
 
-##  Screenshots
-
-### Dashboard Overview
-![Dashboard Preview](screenshots/dashboard_preview.png)
+##  Charts
 
 ### Customer Segmentation Analysis
 ![Segmentation](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/2e66af25f0a91f8457f12e188cb4e05f90e7a246/Python%20Charts/2_customer_segments.png)
@@ -326,7 +322,7 @@ jupyter notebook notebooks/quickbite_analysis.ipynb
 ![Timeline](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/d27da799b4b5c627b9c0ebcf784fc51a89346c10/Python%20Charts/1_daily_orders_trend.png)
 
 ### Performance Metrics
-![Metrics](visualizations/3_phase_comparison.png)
+![Metrics](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/52cc55665b034f72ddc30c453c1fd396fb9bc310/Python%20Charts/3_phase_comparison.png)
 
 ---
 
@@ -354,7 +350,7 @@ jupyter notebook notebooks/quickbite_analysis.ipynb
 
 ##  Author
 
-**[Your Name]**
+**[Dominic Mwasya]**
 - 💼 LinkedIn: [www.linkedin.com/in/dominic-mwasya-70651425b]
 - 🌐 Portfolio: [datascienceportfol.io/dominicmwasya]
 - 📧 Email: [dominicmwasya02@gmail.com]
