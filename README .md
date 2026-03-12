@@ -323,7 +323,7 @@ jupyter notebook notebooks/quickbite_analysis.ipynb
 ![Segmentation](visualizations/2_customer_segments.png)
 
 ### Crisis Impact Timeline
-![Timeline](visualizations/1_daily_orders_trend.png)
+![Timeline](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/d27da799b4b5c627b9c0ebcf784fc51a89346c10/Python%20Charts/1_daily_orders_trend.png)
 
 ### Performance Metrics
 ![Metrics](visualizations/3_phase_comparison.png)
