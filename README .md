@@ -320,7 +320,7 @@ jupyter notebook notebooks/quickbite_analysis.ipynb
 ![Dashboard Preview](screenshots/dashboard_preview.png)
 
 ### Customer Segmentation Analysis
-![Segmentation](visualizations/2_customer_segments.png)
+![Segmentation](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/2e66af25f0a91f8457f12e188cb4e05f90e7a246/Python%20Charts/2_customer_segments.png)
 
 ### Crisis Impact Timeline
 ![Timeline](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/d27da799b4b5c627b9c0ebcf784fc51a89346c10/Python%20Charts/1_daily_orders_trend.png)
