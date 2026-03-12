@@ -7,7 +7,7 @@
 
 > **A comprehensive data analysis project examining a food delivery platform's operational crisis, customer impact, and strategic recovery roadmap.**
 
-[Live Dashboard](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/5b1c084557ac577c7ac9c5c88deef24d674766dd/Quickbite%20dashboard.pbix) | [Case Study](reports/Executive_Summary.pdf) 
+[Live Dashboard](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/5b1c084557ac577c7ac9c5c88deef24d674766dd/Quickbite%20dashboard.pbix) | [Case Study](https://github.com/dominicmwasya/quickbite-crisis-recovery-analysis/blob/bfc832c6cdfb79944306a5a243a1865969017441/Executive%20Summarypdf.pdf) 
 ---
 
 ## 📋 Table of Contents
